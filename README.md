@@ -5,6 +5,9 @@
 
 Inspired by the wise centaur Chiron from Greek mythology—a renowned tutor to heroes—Kairon AI is a multifaceted learning assistant designed to help students, educators, and lifelong learners master their study material. It transforms passive text into an interactive, dynamic learning experience through a suite of powerful, AI-driven tools.
 
+
+**Live Demo** [https://kaironaiapp.netlify.app/]
+
 ---
 
 ## ✨ Key Features
